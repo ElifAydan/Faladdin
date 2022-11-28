@@ -24,4 +24,6 @@ Before after anotasyonları kullanımıştır. Before anatasyonu içinde android
 
 # Constants
 Sabitler burada tutulmuştur. Bu sabitler uygulama içinde bulunan locatorlerdir.
+# Success Image
+<img width="1402" alt="image" src="https://user-images.githubusercontent.com/96677839/204251310-c6184ec7-5b2a-4477-893d-efecac7d5802.png">
 
